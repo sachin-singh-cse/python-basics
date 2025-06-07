@@ -1,23 +1,49 @@
-# Python Basics 🐍
+# 🐍 Python Basics – Practice Repository
 
-Welcome to my first Python practice repository!
+Welcome to my first Python practice repository!  
+This repo contains all my learning and practice from the **Apna College Python Course** — organized lecture-wise and project-wise.
 
-This project includes simple programs written as part of my learning journey in Python.  
-I’m currently pursuing B.Tech in Computer Science and using GitHub to document and share my progress.
+---
 
-## 📂 What’s inside
+## 📚 Folders & Files
 
-- 🧠 Basic variable declarations  
-- 🧮 Simple math operations  
-- 📤 Printing output  
-- ✅ More to come as I learn!
+| Folder/File                | Description                                      |
+|---------------------------|--------------------------------------------------|
+| `lectures/`               | Lecture-wise Python programs                    |
+| `mini-projects/`          | Simple logic-based mini projects                |
+| `basic_python_practice.py`| Random practice questions and rough work        |
+| `README.md`               | You're reading it!                              |
 
-## 📘 About Me
+---
 
-I'm a passionate learner starting my programming journey.  
-Follow my GitHub to stay updated with my Python and coding progress.
+## 🧠 What I’ve Learned So Far
 
-## 🚀 Let’s Connect!
+- Variables, Data Types, Input/Output  
+- Operators, If-Else, Loops  
+- Lists, Tuples, Dictionaries  
+- Functions (with return, recursion)  
+- GitHub & Folder Structuring  
+- Mini Projects using core logic  
 
-- GitHub: [sachin-singh-cse](https://github.com/sachin-singh-cse)  
-- LinkedIn: [https://www.linkedin.com/in/sachin-singh-cse](https://www.linkedin.com/in/sachin-singh-cse)
+---
+
+## 🚀 Next Goals
+
+- Practice more with **functions & recursion**  
+- Start learning **strings and file handling**  
+- Build beginner CLI tools using Python
+
+---
+
+## 👨‍💻 About Me
+
+I’m currently pursuing **B.Tech in Computer Science**  
+Coding using **Pydroid3 on my phone**, learning step-by-step.  
+Follow my journey on:  
+[🔗 LinkedIn](https://www.linkedin.com/in/sachin-singh-a24525219)  
+[💻 GitHub](https://github.com/sachin-singh-cse)
+
+---
+
+Let's connect and grow together! 😊  
+#Python #LearningInPublic #CodingJourney
