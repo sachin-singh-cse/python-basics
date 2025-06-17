@@ -45,7 +45,7 @@ Despite limited resources, I’m committed to becoming a **Software Developer (S
 Coding with consistency using just a phone and lots of passion.🔥
 
 ### 🌐 Connect With Me:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sachin-singh-cse)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sachin-singh-a24525219)
 - 💻 [GitHub](https://github.com/sachin-singh-cse)
 
 ---
